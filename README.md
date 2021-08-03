@@ -5,7 +5,7 @@ Restrict all messages execpt links for some channel.
 ## Setup
 
 ```
-yarn 
+yarn start
 export DISCORD_BOT_TOKEN=<use your discord bot token here>
 ```
 
