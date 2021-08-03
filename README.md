@@ -1,5 +1,5 @@
 # discord-mute-voice-channel-bot
-Bot to mute everybody in a voice channel. 
+Restrict all messages execpt links for some channel. 
 
 
 ## Setup
@@ -14,8 +14,3 @@ export DISCORD_BOT_TOKEN=<use your discord bot token here>
 ```
 yarn start
 ```
-
-## Commands
-
-`/shutup`, `/vaymoodu`, `muteall`, `m` to mute server
-`/speakup`, `/vaythora`, `unmuteall`, `u` to unmute server
