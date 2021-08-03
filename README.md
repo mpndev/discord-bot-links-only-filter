@@ -1,4 +1,4 @@
-# discord-mute-voice-channel-bot
+# discord-bot-links-only-filter
 Restrict all messages execpt links for some channel. 
 
 
